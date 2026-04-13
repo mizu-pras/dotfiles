@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cp /home/mizu/.config/opencode/para-hyang.json /home/mizu/Workspaces/personal/dotfiles/opencode/para-hyang.json && cp /home/mizu/.config/opencode/oh-my-opencode-slim.json /home/mizu/Worksp...",
+  "error": "Exit code 1\ncp: cannot stat '/home/mizu/.config/opencode/para-hyang.json': No such file or directory",
+  "timestamp": "2026-04-13T16:31:33.691Z",
+  "retry_count": 1
+}

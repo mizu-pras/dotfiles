@@ -13,7 +13,6 @@
     }
   },
   "plugin": [
-    "para-hyang@latest",
     "oh-my-opencode-slim@latest"
   ],
   "agent": {
